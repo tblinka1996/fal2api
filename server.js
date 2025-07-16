@@ -131,23 +131,11 @@ const SYSTEM_PROMPT_LIMIT = 4800;
 const FAL_SUPPORTED_MODELS = [
     "anthropic/claude-sonnet-4",
     "anthropic/claude-opus-4",
-    "anthropic/claude-3.7-sonnet",
-    "anthropic/claude-3.5-sonnet",
-    "anthropic/claude-3-5-haiku",
-    "anthropic/claude-3-haiku",
-    "google/gemini-pro-1.5",
+    "google/gemini-2.5-pro",
     "google/gemini-flash-1.5",
-    "google/gemini-flash-1.5-8b",
-    "google/gemini-2.0-flash-001",
-    "meta-llama/llama-3.2-1b-instruct",
-    "meta-llama/llama-3.2-3b-instruct",
-    "meta-llama/llama-3.1-8b-instruct",
-    "meta-llama/llama-3.1-70b-instruct",
-    "openai/gpt-4o-mini",
+    "moonshotai/kimi-k2",
     "openai/gpt-4o",
     "deepseek/deepseek-r1",
-    "meta-llama/llama-4-maverick",
-    "meta-llama/llama-4-scout"
 ];
 
 // Helper function getOwner (unchanged)
